@@ -1,0 +1,17 @@
+{
+  "name": "minimum-swaps",
+  "version": "1.0.0",
+  "description": "Return an integer representing the minimum number of swaps to sort any array",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Esteban Ladino <esteban.ladino.927@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.1"
+  }
+}
